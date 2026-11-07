@@ -1,0 +1,11 @@
+# Local runtime data and secrets
+.env
+.env.*
+*.log
+*.tmp
+ConsoleHost_history.txt
+*_history.txt
+*profile.ps1
+session-notes/
+.vscode/
+.idea/
